@@ -153,7 +153,7 @@ function game_init() {
     deck[i].classList.remove(...not_init_card_class);
     arr.push(deck[i].innerHTML);
   }
-  //arr = shuffle(arr);
+  arr = shuffle(arr);
   for (let i = 0; i < deck.length; i++) {
     deck[i].innerHTML = arr[i];
   }
