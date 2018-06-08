@@ -1,20 +1,29 @@
 # Memory Game Project
+Fun 4x4 memory matching game for web-browser. :)
 
 ## Table of Contents
+* [Summary](#summary)
+* [Feature](#feature)
+* [Installing](#installing)
+* [Dependencies](#dependencies)
+* [Reference](#reference)
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## Summary
+Using HTML, CSS and JavaScript (with some ES6 syntax) to build this game.
 
-## Instructions
+## Feature
+1. cards shuffle
+2. movement counting
+3. timer
+4. reset
+5. responsive to mobile
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Installing
+git clone to local and open index.html file in web browser.
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Dependencies
+* [Font Awesome](https://fontawesome.com/)
+* [Google Fonts](https://fonts.google.com/)
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+## Reference
+some starting code comes from [Udacity Classroom](https://classroom.udacity.com/me).
