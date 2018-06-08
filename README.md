@@ -27,3 +27,7 @@ git clone to local and open index.html file in web browser.
 
 ## Reference
 some starting code comes from [Udacity Classroom](https://classroom.udacity.com/me).
+
+
+## Future work
+could have AI player and set the difficulty for game
