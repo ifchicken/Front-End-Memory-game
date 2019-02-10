@@ -1,5 +1,5 @@
 # Memory Game Project
-Fun 4x4 memory matching game for web-browser. :)
+Fun 4x4 memory matching game for web-browser at [here](https://ifchicken.github.io/Front-End-Memory-game/). :)
 
 ## Table of Contents
 * [Summary](#summary)
